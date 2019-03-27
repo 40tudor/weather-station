@@ -5,7 +5,7 @@ import time
 
 unicorn.set_layout(unicorn.PHAT)
 unicorn.brightness(0.25)
-unicorn.rotation(180)
+unicorn.rotation(0)
 
 red=255
 green=0
